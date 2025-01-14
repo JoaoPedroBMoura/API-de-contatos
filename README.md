@@ -9,8 +9,8 @@ An API designed to allow CRUD to be performed on a contact list
     ![Imagem do Swagger](./img/photo%20from%20APi.png)
 
 >To use this API, simply download this repository and have it on your machine:
-    - version 6.0 of .NET on the machine
-    - Entity Framework version 6
-    - package EntityFrameworkCore.Design version 6 
-    - package EntityFrameworkCore.SqlServer version 6
-        - They were used to make the Migrations
+>   - version 6.0 of .NET on the machine
+>   - Entity Framework version 6
+>   - package EntityFrameworkCore.Design version 6 
+>   - package EntityFrameworkCore.SqlServer version 6
+>       - They were used to make the Migrations
